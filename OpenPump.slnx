@@ -1,0 +1,20 @@
+<Solution>
+
+ 	<Folder Name="/Sources/">
+		<Project Path="Sources/OpenPump/OpenPump.csproj" Id="8f604ceb-7cae-4b4c-b347-ba0cbb15cadc" />
+	</Folder>
+
+	<Folder Name="/Sources/Packages/">
+    		<Project Path="Sources/Packages/OpenPump.Abstractions/OpenPump.Abstractions.csproj" Id="5bc91fd5-abad-4526-a723-55c89c3064e0" />
+    		<Project Path="Sources/Packages/OpenPump.Core/OpenPump.Core.csproj" Id="c2e94d85-ed52-4f70-8ac6-cbbc8eda53e6" />
+	</Folder>
+
+	<Folder Name="/Sources/Services/">
+		<Project Path="sources/Services/OpenPump.Services.PumpWebSocket/OpenPump.Services.PumpWebSocket.csproj" Id="2771c1ff-b3cb-4435-8201-a8c30e884b18" />
+	</Folder>
+
+	<Folder Name="/Solution Elements/">
+		<File Path="README.md" />
+	</Folder>
+
+</Solution>

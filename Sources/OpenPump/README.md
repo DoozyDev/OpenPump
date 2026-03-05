@@ -1,0 +1,1 @@
+﻿Provides the full extension for the OpenPump package, encompassing package configuration, and service registration.
