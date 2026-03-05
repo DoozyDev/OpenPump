@@ -1,0 +1,1 @@
+﻿Provides the core functionalities for the OpenPump ecosystem, including shared classes, utilities, and other components used across modules.

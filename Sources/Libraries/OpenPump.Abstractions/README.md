@@ -1,0 +1,1 @@
+﻿Provides all abstractions for the OpenPump ecosystem, including interfaces, enums, models, and DTOs, without any implementation logic.
